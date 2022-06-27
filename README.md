@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darshurv
+- 👋 Hi, I’m DARSHAN R V
 - 👀 I’m interested in DEVOPS
 - 🌱 I’m currently learning AWS DEVOPS
 - 💞️ I’m looking to collaborate on ...
